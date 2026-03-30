@@ -66,7 +66,7 @@ To Setup Your Code and Live Site (GitHub and GitHub Pages) first **sign in or cr
 3. Right-click `index.html` and choose **Open with Live Preview**.
 4. Your page should open in a browser so you can preview it while you work.
 
-> Congratulations! Your set up steps are ready for your experiments. Now, repeat this last step (Save, Commit and Push) as you continue editing. This way your work isn't just saved to your computer but is synced to your Github account (and automatically updates your Github Pages live site).
+> Congratulations! You've set up everything to get going with your own experiments with this Starter Pack! Now, repeat this following step (Save, Commit and Push) as you continue editing your code. This way your work isn't just saved to your computer but is synced to your Github account (and automatically updates your Github Pages live site).
 
 ### Save, Commit, and Push Changes to Github
 
